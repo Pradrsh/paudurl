@@ -23,7 +23,7 @@ Example:** `/set_api 20eb8456008878c0349fc79d40fb4d1634cccf12`
 '''
 
 HELP_MESSAGE = '''
-**Hey! My name is {firstname}. I am a Greylinks Pro Shortener Bot.**
+**Hey! My name is {firstname}. I am a P S B O T S Shortener Bot.**
 
 Features 
 
@@ -37,7 +37,7 @@ Helpful commands:
 
 - /start: Starts me! You've probably already used this.
 - /help: Sends this message; I'll tell you more about myself!
-If You Have Any Problem Then contact us at - contact@GreyMattersTech.com
+If You Have Any Problem Then contact us at - contact @soonbotmaker0
 
 Available commands:
 
@@ -59,9 +59,9 @@ ABOUT_TEXT = """
 
 `🧰 Framework:` [Pyrogram](https://github.com/pyrogram/pyrogram)
 
-`👨‍💻 Developer:` [GreyMatter's](https://t.me/GreyMattersTech)
+`👨‍💻 Developer:` [GreyMatter's](https://t.me/Bot_update_i)
 
-`📢 Support:`   [SUPPORT](mailto:contact@GreyMattersTech.com)
+`📢 Support:`   [SUPPORT](mailto:proloot49@gmail.com)
 
 """
 
